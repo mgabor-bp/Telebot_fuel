@@ -6,6 +6,7 @@ If you like this project, or you wants to support the development, you can do th
 
 ## Prerequisites
 Install tele-bot
+
 Tested and works with Domoticz v4.x.
 
 If you do not have a working Python >=3.5 installation, please install it first! 
