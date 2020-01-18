@@ -1,5 +1,5 @@
 # Telebot_fuel
-Complete the tele-bot python script to write Fuel Consumptin into Domoticz
+Complete the tele-bot python script to write Fuel Consumption into Domoticz
 If you like this project, or you wants to support the development, you can do that with the paypal link https://www.paypal.me/GModla. Or simply invite me a Coffee. :)
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/mgabor74)
 
